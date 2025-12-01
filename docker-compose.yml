@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   iceberg-app:
     container_name: iceberg-musume
